@@ -18,7 +18,7 @@ export default function Experience() {
     },
     {
       id: 2,
-      role: "Siswa Praktik Kerja Lapangan (PKL)",
+      role: "Siswi Praktik Kerja Lapangan (PKL)",
       org: "Institut Teknologi Bandung (ITB)",
       period: "Januari 2023 - Juni 2023",
       // NOTE: Deskripsi di bawah ini saya ambil dari chat Anda (tentang mimpin panitia). 
