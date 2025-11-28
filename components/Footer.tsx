@@ -54,8 +54,8 @@ export default function Footer() {
                 </div>
 
                 <div className="flex gap-4 mt-10">
-                    <a href="#" className="p-3 rounded-full bg-white/5 hover:bg-white/10 hover:text-white text-gray-400 transition"><Instagram size={20}/></a>
-                    <a href="#" className="p-3 rounded-full bg-white/5 hover:bg-white/10 hover:text-white text-gray-400 transition"><Linkedin size={20}/></a>
+                    <a href="https://www.instagram.com/khaylanyrahwanyy/?utm_source=ig_web_button_share_sheet" className="p-3 rounded-full bg-white/5 hover:bg-white/10 hover:text-white text-gray-400 transition"><Instagram size={20}/></a>
+                    <a href="https://www.linkedin.com/in/khaylany-rahwany-655997265/" className="p-3 rounded-full bg-white/5 hover:bg-white/10 hover:text-white text-gray-400 transition"><Linkedin size={20}/></a>
                 </div>
             </div>
 
