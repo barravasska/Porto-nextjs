@@ -105,10 +105,10 @@ export default function AboutSection() {
                  <h3 className="text-2xl font-bold text-white mb-6">Technical Skills</h3>
                  <div className="grid md:grid-cols-2 gap-6">
                     {[
-                        { name: "AutoCAD 2D/3D", level: "75%", color: "bg-kh-pink" },
-                        { name: "SAP2000", level: "70%", color: "bg-kh-blue" },
-                        { name: "SketchUp", level: "70%", color: "bg-kh-yellow" },
-                        { name: "Ms. Project / RAB", level: "95%", color: "bg-kh-green" }
+                        { name: "AutoCAD 2D/3D", level: "55%", color: "bg-kh-pink" },
+                        { name: "Mikrotik", level: "85%", color: "bg-kh-blue" },
+                        { name: "SketchUp", level: "50%", color: "bg-kh-yellow" },
+                        { name: "Fiber Optic", level: "95%", color: "bg-kh-green" }
                     ].map((skill, idx) => (
                         <div key={idx} className="bg-white/5 p-4 rounded-xl border border-white/5">
                             <div className="flex justify-between mb-2 font-bold text-sm">
